@@ -1,3 +1,5 @@
+TF_ACC_PROVIDER_NAMESPACE = ankon
+
 default: fmt lint install generate
 
 build:

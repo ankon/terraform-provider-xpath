@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "TF_ACC": "1",
+        "TF_ACC_PROVIDER_NAMESPACE": "ankon"
+    },
+}
